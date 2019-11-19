@@ -22,8 +22,8 @@ cover:
                 Design Lead<br/>
                 <strong>Outcomes</strong><br/>
                 <ul class="l--mar-none l--pad-left-s">
-                    <li>50% increase in new signups</li>
-                    <li>10% increase in retention</li>
+                    <li>50% increase in daily signups</li>
+                    <li>10% increase in paid user retention</li>
                     <li>Product, brand, and organizational design systems</li>
                 </ul>
             </div>
@@ -54,7 +54,7 @@ cover:
         <span class="project--related-post-header c--gray">Related Essay:</span>
         <a href="/writing/design-principles-workshop/" target="_blank">The 1-hour Design Principles Workshop</a>
     </div>
-    <p>Design principles are an integral part of </p>
+    <p>Design principles are an integral part of scaling the design process. Bitly was on track to double its head count, and so we needed to pave the way to alignment and collaboration between design and the rest of the company.</p>
     <figure class="l--grid-wide">
         <div class="l--flex l--space-flush">
             <div class="l--flex-auto">
@@ -64,7 +64,51 @@ cover:
                 <img loading="lazy" src="/images/bitly-5.jpg" />
             </div>
         </div>
-        <figcaption>Explorations of how the homepage could change on weekends to reflect different reading behavior</figcaption>
+        <figcaption>People from all across the company participated in design principles workshops</figcaption>
+    </figure>
+    <p>To quickly generate a set of design principles with the team, I facilitated a number of <a href="/writing/design-principles-workshop/" target="_blank">1-hour design principles workshops</a>. These workshops are designed to allow a large number of cross-functional teammates to efficiently generate, group, and decide on principles. At the end of the workshops, we had a total of 81 possible principles grouped into 12 themes.</p>
+    <figure>
+        <img loading="lazy" src="/images/bitly-6.png">
+        <figcaption>The result of the design principles workshop. We used Miro to include team members from across the country.</figcaption>
+    </figure>
+    <p>We refined the 81 principles into 6 based on multiple rounds of editing and dot voting. I worked with my design colleague Lizzie May to create a poster for each principle.</p>
+    <figure>
+        <div class="l--flex l--space-flush">
+            <div class="l--flex-auto l--mar-btm-s">
+                <img loading="lazy" src="/images/bitly-7.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-8.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-9.jpg" />
+            </div>
+        </div>
+        <div class="l--flex l--space-flush">
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-10.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-11.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-12.jpg" />
+            </div>
+        </div>
+    </figure>
+    <p>We printed and framed the posters; They now hang in the common areas Bitly's three offices, giving the company a clear view into how the design process understands the meaning of great design.</p>
+    <figure class="l--grid-wide">
+        <div class="l--flex l--space-flush">
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-13.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="/images/bitly-14.jpg" />
+            </div>
+            <div class="l--flex-auto">
+                <img loading="lazy" src="https://source.unsplash.com/random/800x600">
+            </div>
+        </div>
     </figure>
 </section>
 <section class="project--section l--grid">
