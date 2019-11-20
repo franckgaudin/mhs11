@@ -1,1 +1,8 @@
-/* empty */
+figure img {
+    display: block;
+}
+
+figure figcaption {
+    margin-top: var(--l--space-xs);
+    color: var(--c--theme-gray-4);
+}
