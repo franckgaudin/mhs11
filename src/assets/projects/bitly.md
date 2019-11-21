@@ -22,13 +22,8 @@ cover:
                 Design Lead<br/>
                 <strong>Outcomes</strong><br/>
                 <ul class="l--mar-none l--pad-left-s">
-<<<<<<< HEAD
-                    <li>50% increase in new signups</li>
-                    <li>10% increase in retention</li>
-=======
                     <li>50% increase in daily signups</li>
                     <li>10% increase in paid user retention</li>
->>>>>>> c6b2d2e65d5798989f5800a477e6ae446de4966f
                     <li>Product, brand, and organizational design systems</li>
                 </ul>
             </div>
@@ -43,13 +38,13 @@ cover:
     <figure class="l--grid-wide">
         <div class="l--flex l--space-flush">
             <div class="l--flex-auto">
-                <img loading="lazy" src="/images/bitly-1.png" />
+                <img loading="lazy" src="/images/bitly-1.jpg" />
             </div>
             <div class="l--flex-auto">
-                <img loading="lazy" src="/images/bitly-2.png" />
+                <img loading="lazy" src="/images/bitly-2.jpg" />
             </div>
         </div>
-        <figcaption>Explorations of how the homepage could change on weekends to reflect different reading behavior</figcaption>
+        <figcaption>The homepage and link dashboard in late 2018</figcaption>
     </figure>
     <p>The homepage of the site, along with all of the marketing materials, hadn't been updated in years. Bitly's products, including a web application, mobile apps, and browser extensions, were suffering from tech debt and the lack of a comprehensive design system. The design team itself had grown 4x and needed new processes and cultural tools to help its growth and maturity.</p>
 </section>
@@ -111,16 +106,40 @@ cover:
                 <img loading="lazy" src="/images/bitly-14.jpg" />
             </div>
             <div class="l--flex-auto">
-                <img loading="lazy" src="https://source.unsplash.com/random/800x600">
+                <img loading="lazy" src="/images/bitly-15.jpg">
             </div>
         </div>
+        <figcaption>
+            The design principles posters in the New York, Denver, and San Francisco offices.
+        </figcaption>
     </figure>
 </section>
 <section class="project--section l--grid">
     <h2>A new product design system</h2>
-    <p>To begin the work of updating Bitly's design approach, We re-visited our approach to design systems. Previously, the design team had documented standards around colors and componenets, but very little had been done to tie this system to </p>
+    <p>To begin the work of updating Bitly's design approach, We re-visited our approach to design systems. Previously, the design team had documented standards around colors and components, but very little had been done to tie this system to product goals or brand values.</p>
     <figure>
-        <img loading="lazy" src="/images/bitly-3.png">
-        <figcaption>Explorations of how the homepage could change on weekends to reflect different reading behavior</figcaption>
+        <img loading="lazy" src="/images/bitly-3.jpg">
+        <figcaption>The product design system in late 2018</figcaption>
+    </figure>
+    <p>To begin maturing our design system practice, I wrote and shared a brief on what design systems were — and weren't — to Bitly. I shared this brief with product and engineering partners, go their feedback, and published it as a reference for future work.</p>
+    <figure>
+        <div style="background: var(--c--theme-highlight-1);" class="l--pad-m t--family-serif">
+            <p>At Bitly, a design system is a 3-legged stool: three vital components that support our product. Those three components are:</p><br/>
+                <ul class="l--mar-btm-none">
+                    <li>
+                        <strong>A kit of reusable parts (The What)</strong><br/>
+                        These parts include things like design tokens, style guides, and component systems.
+                    </li>
+                    <li>
+                        <strong>A process for building and maintaining parts (The How)</strong><br/>
+                        This process includes principles, goals, working agreements, and feedback loops.
+                    </li>
+                    <li>
+                        <strong>A community of users (The Who)</strong><br/>
+                        These are the designers, engineers, product managers and end users who rely on the system.
+                    </li>
+                </ul>
+        </div>
+        <figcaption>An excerpt from the 2016 Wall Street Journal accessibility guidelines</figcaption>
     </figure>
 </section>

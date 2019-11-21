@@ -48,7 +48,7 @@
     --c--red-90: #2b0c0c;
 
     /* yellows */
-    --c--yellow-10: #fff9e5;
+    --c--yellow-10: hsl(46, 100%, 97%);
     --c--yellow-20: #fbe7a7;
     --c--yellow-30: #f5dc8e;
     --c--yellow-40: #f0d174;
