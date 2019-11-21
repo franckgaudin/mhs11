@@ -23,7 +23,7 @@
 }
 
 .project figure {
-    margin: calc(var(--l--space-m)) 0;
+    margin: var(--l--space-m) 0 var(--l--space-s);
 }
 
 .project figure figcaption{

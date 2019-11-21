@@ -140,6 +140,13 @@ cover:
                     </li>
                 </ul>
         </div>
-        <figcaption>An excerpt from the 2016 Wall Street Journal accessibility guidelines</figcaption>
+        <figcaption>An excerpt from 'What is a design system?'</figcaption>
+    </figure>
+    <p>From there, the first step in updating Bitly's design system was to provide a wider, more functional, and more accessible color palette. The goal of this work was to reduce the use of brand colors and to make the palette easier to apply logically to component states.</p>
+    <figure>
+        <img loading="lazy" src="/images/bitly-17.jpg" />
+        <figcaption>
+            The updated color palette, with a clearer naming scheme
+        </figcaption>
     </figure>
 </section>
