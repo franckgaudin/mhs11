@@ -149,4 +149,34 @@ cover:
             The updated color palette, with a clearer naming scheme
         </figcaption>
     </figure>
+    <p>The new color palette allows Bitly's brand to stand out without needing to occupy more space on the page. It also follows usability conventions and meets accessibility criteria.</p>
+    <figure>
+        <img loading="lazy" src="/images/bitly-18.jpg" />
+    </figure>
+    <p>Following the implementation of the new color scheme, we focused on updating the system's components themselves. We applied the same principles: accessible, easy to use, and functional for users.</p>
+    <figure class="l--grid-wide">
+        <div class="l--flex l--space-flush">
+            <div class="l--flex-auto l--mar-btm-s">
+                <img loading="lazy" src="/images/bitly-19.png">
+            </div>
+            <div class="l--flex-auto l--mar-btm-s">
+                <img loading="lazy" src="/images/bitly-20.png">
+            </div>
+        </div>
+        <div class="l--flex l--space-flush">
+            <div class="l--flex-auto l--mar-btm-s">
+                <img loading="lazy" src="/images/bitly-21.png">
+            </div>
+            <div class="l--flex-auto l--mar-btm-s">
+                <img loading="lazy" src="/images/bitly-22.png">
+            </div>
+        </div>
+        <figcaption>
+            Examples of components from a presentation on the design system.
+        </figcaption>
+    </figure>
+</section>
+<section class="project--section c--bg-gray-1 l--grid">
+    <h2>A brand design system</h2>
+
 </section>
