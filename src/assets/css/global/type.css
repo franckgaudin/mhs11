@@ -166,7 +166,10 @@ code {
 
 .post p,
 .post ol,
-.post ul {
+.post ul,
+.project p,
+.project ol,
+.project ul {
     font-family: var(--t--family-serif);
     font-size: 1.2rem;
 }
